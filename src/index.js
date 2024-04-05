@@ -7,7 +7,7 @@ require('./database')
 
 async function main(){
    await app.listen(app.get('port'))
-   console.log('servidor act en puerto 3001')
+   console.log('servidor act en puerto 4000')
 }
 
 main()
